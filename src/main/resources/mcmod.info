@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thaumic_mercy",
+  "name": "Thaumic Mercy",
+  "description": "And I call that mercy.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BordListian"],
+  "credits": "azanor, rinart73",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
